@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+build/
+scripts/node_modules/
+scripts/package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# CDK
+cdk.out/
+
+# SAM
+.aws-sam/
+
+# ハッカソン用
+.kiro/
+scripts/
